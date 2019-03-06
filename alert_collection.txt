@@ -1,0 +1,5 @@
+name: eq200 lower_limit: -1 upper_limit: -1 single_limit: 200 comparison: =
+name: less then 2450 lower_limit: -1 upper_limit: -1 single_limit: 2450 comparison: <
+name: equals to 2450 lower_limit: -1 upper_limit: -1 single_limit: 2450 comparison: =
+name: less then 3010 lower_limit: -1 upper_limit: -1 single_limit: 3010 comparison: <
+name: equals to 3010 lower_limit: -1 upper_limit: -1 single_limit: 3010 comparison: =
